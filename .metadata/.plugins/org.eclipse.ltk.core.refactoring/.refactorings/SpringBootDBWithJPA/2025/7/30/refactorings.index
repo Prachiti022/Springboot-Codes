@@ -1,0 +1,13 @@
+1753331717814	Rename package 'in.elite.demo'
+1753331818249	Rename type 'SpringBootDemoApplication'
+1753332771938	Delete element
+1753337587018	Rename package 'in.elite.controller'
+1753337604609	Rename package 'in.elite.entity'
+1753337638972	Rename package 'in.elite.service'
+1753339155721	Rename package 'in.elite.Entity'
+1753339204320	Rename package 'in.elite.Controller'
+1753339250740	Rename package 'in.elite.Service'
+1753339323537	Rename package 'in.elite.Dao'
+1753340385608	Rename type 'SpringBootDBWithJPAApplication'
+1753542256724	Rename type 'SpringBootDemoApplication'
+1753542272826	Rename type 'SpringBootDemoApplicationTests'
